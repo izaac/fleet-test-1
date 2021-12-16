@@ -1,3 +1,4 @@
 namespace: fleet-default
 helm:
-  chart: git@github.com:macedogm/fleet-examples-test-private.git/guestbook-0.0.0.tgzX
+#  chart: git@github.com:macedogm/fleet-examples-test-private.git/guestbook-0.0.0.tgzX
+  chart: git@github.com:sergeirancher/private.git/sergeichart-0.1.0.tgz
