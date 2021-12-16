@@ -1,3 +1,3 @@
 namespace: fleet-default
 helm:
-  chart: invalid
+  chart: git@github.com:macedogm/fleet-examples-test-private.git/guestbook-0.0.0.tgzX
