@@ -3,6 +3,6 @@ helm:
 #  chart: git@github.com:macedogm/fleet-examples-test-private.git/guestbook-0.0.0.tgz
 #  chart: git@github.com:macedogm/fleet-examples-test-private.git/guestbook-0.0.0.tgz
 #  chart: git@github.com:sergeirancher/Xprivate.git/sergeichart-0.1.0.tgz
-  chart: invalid
+  chart: invalid1
 #  repo: git@github.com:macedogm/fleet-examples-test-private.git
   branch: master
