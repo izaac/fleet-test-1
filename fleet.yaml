@@ -1,5 +1,5 @@
 namespace: fleet-default
 helm:
-#  chart: git@github.com:macedogm/fleet-examples-test-private.git/guestbook-0.0.0.tgz
-  chart: git@github.com:macedogm/fleet-examples-test-private.git/guestbook-0.0.0.tgzXXXYYY
+#  chart: git@github.com:izaac/fleet-examples.git/guestbook-0.0.0.tgz
+  chart: git@github.com:izaac/fleet-examples.git/guestbook-0.0.0.tgzXXXYYY
   branch: master
